@@ -1,1 +1,2 @@
+I led a comprehensive HR Data Analyst project where I designed and developed an insightful Tableau dashboard. This interactive dashboard effectively showcased key HR metrics, including department-wise attrition rates, age distribution of employees, job satisfaction ratings, education field-based attrition trends, and gender-specific attrition rates. By visually representing these critical insights, I enabled data-driven decision-making, contributing to enhanced workforce planning and strategic HR initiatives
 # tableau_hr_data_analysis
